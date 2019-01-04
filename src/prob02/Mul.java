@@ -2,7 +2,7 @@ package prob02;
 
 public class Mul implements Arithmetic {
 
-	@Override
+	@Override 
 	public int calculate(int a, int b) {
 		return a * b;
 	}

@@ -4,7 +4,7 @@ public class Person {
 	private static int numberOfPerson; // 전체 인구수
 	private int age;
 	private String name;
-
+ 
 	public Person(String name) {
 		this(12, name);
 	}
